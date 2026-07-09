@@ -1,3 +1,5 @@
+"""env module."""
+
 import asyncio
 import sys
 from logging.config import fileConfig
