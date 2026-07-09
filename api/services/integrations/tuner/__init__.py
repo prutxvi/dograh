@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from __future__ import annotations
 
 from api.services.integrations.base import IntegrationPackageSpec
