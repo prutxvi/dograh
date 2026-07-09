@@ -1,3 +1,5 @@
+"""test_json_parser module."""
+
 from api.services.gen_ai.json_parser import (
     _extract_json_array,
     _extract_json_object,
