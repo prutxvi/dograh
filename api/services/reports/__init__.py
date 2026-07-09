@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from .daily_report import DailyReportService
 from .run_report import (
     build_run_report_csv,
