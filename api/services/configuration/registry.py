@@ -1,3 +1,5 @@
+"""registry module."""
+
 import random
 from enum import Enum, auto
 from typing import Annotated, Dict, Literal, Type, TypeVar, Union
