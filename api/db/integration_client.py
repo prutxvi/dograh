@@ -1,3 +1,5 @@
+"""integration_client module."""
+
 from typing import List
 
 from sqlalchemy.future import select
