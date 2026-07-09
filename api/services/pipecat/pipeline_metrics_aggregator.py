@@ -1,3 +1,5 @@
+"""pipeline_metrics_aggregator module."""
+
 import time
 from collections import defaultdict
 from typing import Dict, Optional
