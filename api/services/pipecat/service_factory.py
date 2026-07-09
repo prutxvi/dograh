@@ -1,3 +1,5 @@
+"""service_factory module."""
+
 from typing import TYPE_CHECKING
 from urllib.parse import urlencode, urlparse, urlunparse
 
