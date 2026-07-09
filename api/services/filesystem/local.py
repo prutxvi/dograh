@@ -1,3 +1,5 @@
+"""local module."""
+
 import asyncio
 import os
 from datetime import datetime
