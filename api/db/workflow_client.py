@@ -1,3 +1,5 @@
+"""workflow_client module."""
+
 from datetime import UTC, datetime
 from typing import Optional
 
