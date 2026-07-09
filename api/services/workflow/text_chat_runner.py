@@ -1,3 +1,5 @@
+"""text_chat_runner module."""
+
 import asyncio
 import hashlib
 import time
