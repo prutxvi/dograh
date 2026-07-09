@@ -1,3 +1,5 @@
+"""test_mps_service_key_client module."""
+
 import pytest
 
 from api.services.mps_service_key_client import MPSServiceKeyClient
