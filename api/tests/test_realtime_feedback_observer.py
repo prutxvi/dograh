@@ -1,3 +1,5 @@
+"""test_realtime_feedback_observer module."""
+
 from types import SimpleNamespace
 
 import pytest
