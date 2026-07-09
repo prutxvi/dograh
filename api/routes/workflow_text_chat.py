@@ -1,3 +1,5 @@
+"""workflow_text_chat module."""
+
 from datetime import datetime
 from typing import Any, Dict
 from uuid import uuid4
