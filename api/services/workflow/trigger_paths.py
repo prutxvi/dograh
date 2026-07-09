@@ -1,3 +1,5 @@
+"""trigger_paths module."""
+
 import copy
 import re
 import uuid
