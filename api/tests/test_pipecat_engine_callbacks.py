@@ -1,3 +1,5 @@
+"""test_pipecat_engine_callbacks module."""
+
 from unittest.mock import AsyncMock
 
 import pytest
