@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from .base import BaseFileSystem
 from .minio import MinioFileSystem
 from .null import NullFileSystem
