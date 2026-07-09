@@ -1,3 +1,5 @@
+"""folder_client module."""
+
 from sqlalchemy import func
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.future import select
