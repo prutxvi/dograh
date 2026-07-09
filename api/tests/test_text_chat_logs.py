@@ -1,3 +1,5 @@
+"""test_text_chat_logs module."""
+
 from api.services.workflow.text_chat_logs import (
     build_text_chat_realtime_feedback_events,
     visible_text_chat_turns,
