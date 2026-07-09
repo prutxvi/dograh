@@ -1,3 +1,5 @@
+"""pipecat_engine module."""
+
 from typing import TYPE_CHECKING, Awaitable, Callable, Dict, Literal, Optional, Union
 
 from pipecat.adapters.schemas.tools_schema import ToolsSchema
