@@ -1,3 +1,5 @@
+"""in_memory_buffers module."""
+
 import asyncio
 import tempfile
 import wave
