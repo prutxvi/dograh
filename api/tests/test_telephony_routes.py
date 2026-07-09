@@ -1,3 +1,5 @@
+"""test_telephony_routes module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, Mock, patch
 
