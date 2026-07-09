@@ -1,3 +1,5 @@
+"""worker_runner module."""
+
 import asyncio
 
 from pipecat.pipeline.worker import PipelineWorker
