@@ -1,3 +1,5 @@
+"""campaign_client module."""
+
 import json
 from datetime import UTC, datetime
 from typing import Any, Dict, List, Optional
