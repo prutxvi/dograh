@@ -1,3 +1,5 @@
+"""test_run_pipeline_realtime_turn_config module."""
+
 from pipecat.audio.vad.silero import SileroVADAnalyzer
 from pipecat.turns.user_start import (
     ExternalUserTurnStartStrategy,
