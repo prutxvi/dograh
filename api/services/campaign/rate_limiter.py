@@ -1,3 +1,5 @@
+"""rate_limiter module."""
+
 import time
 import uuid
 from typing import Optional
