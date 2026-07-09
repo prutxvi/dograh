@@ -1,3 +1,5 @@
+"""event_handlers module."""
+
 import asyncio
 
 from loguru import logger
