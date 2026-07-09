@@ -1,3 +1,5 @@
+"""auth module."""
+
 from fastapi import HTTPException
 from fastmcp.server.dependencies import get_http_headers
 from opentelemetry import trace
