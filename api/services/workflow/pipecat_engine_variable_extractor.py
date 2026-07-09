@@ -1,3 +1,5 @@
+"""pipecat_engine_variable_extractor module."""
+
 from __future__ import annotations
 
 import json
