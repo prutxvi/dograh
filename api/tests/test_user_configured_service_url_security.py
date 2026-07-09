@@ -1,3 +1,5 @@
+"""test_user_configured_service_url_security module."""
+
 from types import SimpleNamespace
 
 import pytest
