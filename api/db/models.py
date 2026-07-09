@@ -1,3 +1,5 @@
+"""models module."""
+
 import uuid
 from datetime import UTC, datetime
 
