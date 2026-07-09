@@ -1,3 +1,5 @@
+"""workflow_template_client module."""
+
 from sqlalchemy.future import select
 
 from api.db.base_client import BaseDBClient
