@@ -1,3 +1,5 @@
+"""stack_auth module."""
+
 import os
 
 import aiohttp
