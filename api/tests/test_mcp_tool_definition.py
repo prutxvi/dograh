@@ -1,3 +1,5 @@
+"""test_mcp_tool_definition module."""
+
 import importlib
 
 import pytest
