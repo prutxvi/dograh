@@ -1,3 +1,5 @@
+"""organization_preferences module."""
+
 from pydantic import BaseModel
 
 
