@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from .azure import (
     AZURE_EMBEDDING_MODELS,
     AZURE_MODELS,
