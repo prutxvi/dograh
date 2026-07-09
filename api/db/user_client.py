@@ -1,3 +1,5 @@
+"""user_client module."""
+
 import uuid
 from datetime import datetime, timezone
 
