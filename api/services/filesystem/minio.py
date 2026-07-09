@@ -1,3 +1,5 @@
+"""minio module."""
+
 import asyncio
 import json
 from typing import Any, BinaryIO, Dict, Optional
