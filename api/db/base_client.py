@@ -1,3 +1,5 @@
+"""base_client module."""
+
 from typing import Any, Dict, List
 
 from sqlalchemy import text
