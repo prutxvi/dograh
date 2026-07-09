@@ -1,3 +1,5 @@
+"""gladia module."""
+
 GLADIA_STT_MODELS = ("solaria-1",)
 GLADIA_STT_LANGUAGES = (
     "af",
