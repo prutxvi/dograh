@@ -1,3 +1,5 @@
+"""organization_usage_client module."""
+
 from datetime import datetime, timezone
 from typing import Optional
 from zoneinfo import ZoneInfo
