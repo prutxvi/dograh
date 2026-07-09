@@ -1,3 +1,5 @@
+"""check_validity module."""
+
 from typing import Optional, TypedDict
 
 import openai
