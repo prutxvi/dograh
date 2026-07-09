@@ -1,3 +1,5 @@
+"""pipeline_builder module."""
+
 import os
 
 from loguru import logger
