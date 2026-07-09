@@ -1,3 +1,5 @@
+"""api_key_client module."""
+
 from typing import List, Optional
 
 from sqlalchemy import and_
