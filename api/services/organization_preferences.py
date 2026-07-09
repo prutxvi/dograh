@@ -1,3 +1,5 @@
+"""organization_preferences module."""
+
 from inspect import isawaitable
 
 from loguru import logger
