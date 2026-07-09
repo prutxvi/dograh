@@ -1,3 +1,5 @@
+"""test_workflow_qa_masking module."""
+
 from api.services.configuration.masking import (
     mask_key,
     mask_workflow_definition,
