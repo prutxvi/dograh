@@ -1,3 +1,5 @@
+"""workflow_run_cost module."""
+
 from decimal import Decimal
 
 from loguru import logger
