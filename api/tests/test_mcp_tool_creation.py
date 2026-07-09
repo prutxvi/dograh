@@ -1,3 +1,5 @@
+"""test_mcp_tool_creation module."""
+
 from __future__ import annotations
 
 from datetime import UTC, datetime
