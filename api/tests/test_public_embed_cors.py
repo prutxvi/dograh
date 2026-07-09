@@ -1,3 +1,5 @@
+"""test_public_embed_cors module."""
+
 from types import SimpleNamespace
 
 import pytest
