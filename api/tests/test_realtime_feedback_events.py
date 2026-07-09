@@ -1,3 +1,5 @@
+"""test_realtime_feedback_events module."""
+
 from api.services.pipecat.realtime_feedback_events import (
     build_bot_text_event,
     build_function_call_end_event,
