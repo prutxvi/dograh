@@ -1,3 +1,5 @@
+"""test_telephony_factory module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, patch
 
