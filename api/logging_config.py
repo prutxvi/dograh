@@ -1,3 +1,5 @@
+"""logging_config module."""
+
 import logging
 import os
 import sys
