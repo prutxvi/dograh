@@ -1,3 +1,5 @@
+"""source_sync_factory module."""
+
 from api.services.campaign.source_sync import CampaignSourceSyncService
 from api.services.campaign.sources.csv import CSVSyncService
 
