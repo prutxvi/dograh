@@ -1,3 +1,5 @@
+"""test_mcp_integration module."""
+
 import uuid
 from unittest.mock import AsyncMock, MagicMock
 
