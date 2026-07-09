@@ -1,3 +1,5 @@
+"""test_user_email_case_insensitive module."""
+
 import pytest
 
 
