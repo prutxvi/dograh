@@ -1,3 +1,5 @@
+"""test_workflow_text_chat module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, patch
 
