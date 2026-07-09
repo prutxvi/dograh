@@ -1,3 +1,5 @@
+"""null module."""
+
 from typing import Any, BinaryIO, Dict, NoReturn, Optional
 
 from .base import BaseFileSystem
