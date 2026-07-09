@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from api.services.integrations.base import (
     IntegrationCompletionContext,
     IntegrationNodeRegistration,
