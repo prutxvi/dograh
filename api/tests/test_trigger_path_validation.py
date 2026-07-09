@@ -1,3 +1,5 @@
+"""test_trigger_path_validation module."""
+
 from api.services.workflow.trigger_paths import (
     TRIGGER_PATH_MAX_LENGTH,
     validate_trigger_paths,
