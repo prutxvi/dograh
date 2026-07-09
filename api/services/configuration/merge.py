@@ -1,3 +1,5 @@
+"""merge module."""
+
 from __future__ import annotations
 
 """Helpers for merging incoming user-configuration updates with what is already
