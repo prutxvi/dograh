@@ -1,3 +1,5 @@
+"""test_openai_realtime_initial_context module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock
 
