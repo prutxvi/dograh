@@ -1,3 +1,5 @@
+"""s3_signed_url module."""
+
 import re
 import uuid
 from typing import Annotated, Any, Dict, Optional, TypedDict
