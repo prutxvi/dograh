@@ -1,3 +1,5 @@
+"""service_keys module."""
+
 from typing import List
 
 from fastapi import APIRouter, Depends, HTTPException
