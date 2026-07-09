@@ -1,3 +1,5 @@
+"""calculator module."""
+
 import ast
 from typing import Any, Dict
 
