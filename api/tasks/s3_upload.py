@@ -1,3 +1,5 @@
+"""s3_upload module."""
+
 import os
 from typing import Optional
 
