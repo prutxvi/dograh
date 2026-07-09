@@ -1,3 +1,5 @@
+"""test_ultravox_realtime_wrapper module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, call
 
