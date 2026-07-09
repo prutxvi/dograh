@@ -1,3 +1,5 @@
+"""test_pipeline_cancellation module."""
+
 import asyncio
 
 import pytest
