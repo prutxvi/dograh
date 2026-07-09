@@ -1,3 +1,5 @@
+"""db_client module."""
+
 from api.db.agent_trigger_client import AgentTriggerClient
 from api.db.api_key_client import APIKeyClient
 from api.db.campaign_client import CampaignClient
