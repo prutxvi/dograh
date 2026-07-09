@@ -1,3 +1,5 @@
+"""depends module."""
+
 from typing import Annotated, Optional
 
 import httpx
