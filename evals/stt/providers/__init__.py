@@ -1,3 +1,5 @@
+"""__init__ module."""
+
 from .base import EventCallback, STTProvider, TranscriptionResult, Word
 from .deepgram_provider import DeepgramProvider
 from .deepgram_flux_provider import DeepgramFluxProvider
