@@ -1,3 +1,5 @@
+"""test_ai_model_configuration_v2 module."""
+
 import pytest
 from pydantic import ValidationError
 
