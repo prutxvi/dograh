@@ -1,3 +1,5 @@
+"""test_routes module."""
+
 import base64
 import hashlib
 import hmac
