@@ -1,3 +1,5 @@
+"""workflows module."""
+
 from fastapi import HTTPException
 
 from api.db import db_client
