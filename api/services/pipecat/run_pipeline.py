@@ -1,3 +1,5 @@
+"""run_pipeline module."""
+
 import asyncio
 from typing import Optional
 
