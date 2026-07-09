@@ -1,3 +1,5 @@
+"""test_realtime_message_append module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock
 
