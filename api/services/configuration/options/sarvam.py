@@ -1,3 +1,5 @@
+"""sarvam module."""
+
 SARVAM_TTS_MODELS = ("bulbul:v2", "bulbul:v3")
 SARVAM_V2_VOICES = (
     "anushka",
