@@ -1,3 +1,5 @@
+"""azure module."""
+
 AZURE_MODELS = ["gpt-4.1-mini"]
 
 AZURE_REALTIME_MODELS = ["gpt-4o-realtime-preview"]
