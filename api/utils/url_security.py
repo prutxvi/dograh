@@ -1,3 +1,5 @@
+"""url_security module."""
+
 import ipaddress
 import socket
 from urllib.parse import urlparse
