@@ -1,3 +1,5 @@
+"""storage module."""
+
 from loguru import logger
 
 from api.constants import (
