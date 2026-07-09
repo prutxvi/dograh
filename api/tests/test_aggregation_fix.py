@@ -1,3 +1,5 @@
+"""test_aggregation_fix module."""
+
 from unittest.mock import Mock
 
 from api.services.workflow.pipecat_engine_callbacks import (
