@@ -1,3 +1,5 @@
+"""daily_report module."""
+
 from datetime import datetime, time
 from typing import Any, Dict, List, Optional
 from zoneinfo import ZoneInfo
