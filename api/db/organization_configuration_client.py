@@ -1,3 +1,5 @@
+"""organization_configuration_client module."""
+
 from typing import Any, Dict, List, Optional
 
 from sqlalchemy.future import select
