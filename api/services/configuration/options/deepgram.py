@@ -1,3 +1,5 @@
+"""deepgram module."""
+
 DEEPGRAM_STT_MODELS = ("nova-3-general", "flux-general-en", "flux-general-multi")
 DEEPGRAM_LANGUAGES = (
     "multi",
