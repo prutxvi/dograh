@@ -1,3 +1,5 @@
+"""posthog_client module."""
+
 from loguru import logger
 from posthog import Posthog
 
