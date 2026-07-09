@@ -1,3 +1,5 @@
+"""main module."""
+
 from fastapi import APIRouter
 from loguru import logger
 from pydantic import BaseModel
