@@ -1,3 +1,5 @@
+"""server module."""
+
 from fastmcp import FastMCP
 from mcp.types import ToolAnnotations
 
