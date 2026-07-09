@@ -1,3 +1,5 @@
+"""masking module."""
+
 from __future__ import annotations
 
 """Utilities for masking API keys before they are sent to the client.
