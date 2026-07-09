@@ -1,3 +1,5 @@
+"""workflow_graph module."""
+
 import re
 from collections import Counter
 from typing import Dict, List, Set
