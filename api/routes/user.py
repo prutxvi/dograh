@@ -1,3 +1,5 @@
+"""user module."""
+
 from datetime import datetime, timedelta
 from typing import List, Literal, Optional, TypedDict, Union
 
