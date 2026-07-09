@@ -1,3 +1,5 @@
+"""test_google_stt_service_factory module."""
+
 from types import SimpleNamespace
 from unittest.mock import patch
 
