@@ -1,3 +1,5 @@
+"""node module."""
+
 from __future__ import annotations
 
 from pydantic import model_validator
