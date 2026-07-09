@@ -1,3 +1,5 @@
+"""test_cost_calculator module."""
+
 from api.services.pricing.cost_calculator import cost_calculator
 
 
