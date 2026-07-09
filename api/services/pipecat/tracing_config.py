@@ -1,3 +1,5 @@
+"""tracing_config module."""
+
 import base64
 
 from loguru import logger
