@@ -1,3 +1,5 @@
+"""test_masked_key_rejection module."""
+
 from types import SimpleNamespace
 from unittest.mock import AsyncMock, MagicMock, patch
 
