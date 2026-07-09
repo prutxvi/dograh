@@ -1,3 +1,5 @@
+"""s3 module."""
+
 from typing import Any, BinaryIO, Dict, Optional
 
 import aioboto3
