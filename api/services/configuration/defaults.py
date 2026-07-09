@@ -1,3 +1,5 @@
+"""defaults module."""
+
 from __future__ import annotations
 
 """Utilities for building default service configurations for a new user.
