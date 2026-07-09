@@ -1,3 +1,5 @@
+"""transcript module."""
+
 from typing import List
 
 from pipecat.utils.enums import RealtimeFeedbackType
