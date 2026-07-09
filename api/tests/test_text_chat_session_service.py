@@ -1,3 +1,5 @@
+"""test_text_chat_session_service module."""
+
 from unittest.mock import AsyncMock
 
 import pytest
