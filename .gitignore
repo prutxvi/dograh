@@ -27,3 +27,8 @@ node_modules/
 *.swp
 *.swo
 *~
+
+*.log
+.tmp
+dist/
+build/
