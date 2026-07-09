@@ -1,3 +1,5 @@
+"""test_mcp_tool_session module."""
+
 from datetime import timedelta
 from unittest.mock import MagicMock
 
