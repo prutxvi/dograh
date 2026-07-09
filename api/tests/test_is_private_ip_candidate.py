@@ -1,3 +1,5 @@
+"""test_is_private_ip_candidate module."""
+
 from api.enums import Environment
 from api.routes.webrtc_signaling import (
     NonRelayFilterPolicy,
