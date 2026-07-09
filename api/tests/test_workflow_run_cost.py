@@ -1,3 +1,5 @@
+"""test_workflow_run_cost module."""
+
 from datetime import UTC, datetime
 from types import SimpleNamespace
 from unittest.mock import AsyncMock
