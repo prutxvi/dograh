@@ -1,3 +1,5 @@
+"""user_configuration module."""
+
 from datetime import datetime
 
 from pydantic import BaseModel, model_validator
