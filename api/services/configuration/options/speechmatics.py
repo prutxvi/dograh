@@ -1,3 +1,5 @@
+"""speechmatics module."""
+
 SPEECHMATICS_STT_LANGUAGES = (
     "ar",
     "ar_en",
