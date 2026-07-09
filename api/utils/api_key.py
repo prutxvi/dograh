@@ -1,3 +1,5 @@
+"""api_key module."""
+
 import hashlib
 import secrets
 from typing import Tuple
