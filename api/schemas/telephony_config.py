@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telephony configuration schemas.
 
 Per-provider request/response classes live next to their providers in

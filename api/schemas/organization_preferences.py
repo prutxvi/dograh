@@ -1,3 +1,4 @@
+from __future__ import annotations
 """organization_preferences module."""
 
 from pydantic import BaseModel

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """service_key module."""
 
 from datetime import datetime

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Pydantic schemas for knowledge base operations."""
 
 from datetime import datetime
