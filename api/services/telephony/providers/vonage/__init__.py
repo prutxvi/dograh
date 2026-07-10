@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Vonage telephony provider package."""
 
 from typing import Any, Dict

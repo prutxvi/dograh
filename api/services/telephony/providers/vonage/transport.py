@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Vonage transport factory."""
 
 from pipecat.transports.websocket.fastapi import (

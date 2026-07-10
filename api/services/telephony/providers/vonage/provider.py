@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Vonage (Nexmo) implementation of the TelephonyProvider interface.
 """
