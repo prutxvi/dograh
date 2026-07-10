@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_routes module."""
 
 from types import SimpleNamespace
