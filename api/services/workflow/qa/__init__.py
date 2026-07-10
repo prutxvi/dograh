@@ -1,3 +1,4 @@
+from __future__ import annotations
 """QA analysis service for post-call quality assessment.
 
 Runs LLM-based analysis on call transcripts, traces under the same

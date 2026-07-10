@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Main QA analysis orchestrator — per-node and whole-call fallback."""
 
 import json

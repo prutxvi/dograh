@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Call metrics computation from raw event logs."""
 
 from pipecat.utils.enums import RealtimeFeedbackType

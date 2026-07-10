@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Langfuse / OpenTelemetry tracing helpers for QA analysis."""
 
 import json
