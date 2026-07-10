@@ -1,3 +1,4 @@
+from __future__ import annotations
 """daily_report module."""
 
 from datetime import datetime, time

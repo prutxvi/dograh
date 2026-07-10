@@ -1,3 +1,4 @@
+from __future__ import annotations
 """CSV reports built from completed workflow runs.
 
 Shared by campaign-, workflow-, and organization-usage-scoped reports.
