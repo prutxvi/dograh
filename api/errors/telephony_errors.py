@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Telephony error constants and messages for inbound call validation.
 Centralizes error handling across all telephony providers.
