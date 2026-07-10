@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Vobiz transport factory.
 
 Vobiz uses Plivo-compatible WebSocket protocol:

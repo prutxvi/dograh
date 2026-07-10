@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Vobiz telephony provider package."""
 
 import uuid
