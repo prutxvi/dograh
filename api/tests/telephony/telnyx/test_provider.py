@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_provider module."""
 
 import base64
