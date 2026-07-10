@@ -1,3 +1,4 @@
+from __future__ import annotations
 """ARI-specific call operation strategies.
 
 This module contains the business logic for Asterisk ARI call operations.

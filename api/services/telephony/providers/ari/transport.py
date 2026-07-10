@@ -1,3 +1,4 @@
+from __future__ import annotations
 """ARI (Asterisk) transport factory."""
 
 from fastapi import WebSocket

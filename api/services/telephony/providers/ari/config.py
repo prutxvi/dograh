@@ -1,3 +1,4 @@
+from __future__ import annotations
 """ARI (Asterisk REST Interface) telephony configuration schemas."""
 
 from typing import List, Literal
