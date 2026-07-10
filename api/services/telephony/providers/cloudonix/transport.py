@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Cloudonix transport factory."""
 
 from fastapi import WebSocket

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Cloudonix-specific call operation strategies."""
 
 from typing import Any, Dict
