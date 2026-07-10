@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Top-level orchestration guide surfaced to every MCP session.
 
 Sent to the client via `FastMCP(instructions=...)` — the client bakes

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """auth module."""
 
 from fastapi import HTTPException

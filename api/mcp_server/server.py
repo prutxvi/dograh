@@ -1,3 +1,4 @@
+from __future__ import annotations
 """server module."""
 
 from fastmcp import FastMCP
