@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telephony provider implementations.
 
 Importing this module triggers each provider package to register itself
