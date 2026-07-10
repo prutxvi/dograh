@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Shared helpers for tuning pipecat ``TransportParams`` per run mode.
 
 These live outside ``transport_setup.py`` (which is non-telephony only) so

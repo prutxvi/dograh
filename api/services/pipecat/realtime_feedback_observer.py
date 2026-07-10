@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Real-time feedback observer for sending pipeline events to the frontend.
 
 This observer watches pipeline frames and sends relevant events (transcriptions,

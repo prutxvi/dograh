@@ -1,3 +1,4 @@
+from __future__ import annotations
 """in_memory_buffers module."""
 
 import asyncio

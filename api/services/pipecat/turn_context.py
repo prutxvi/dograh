@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Turn context management for logging across async boundaries.
 
 This module provides a mechanism to track turn numbers across different

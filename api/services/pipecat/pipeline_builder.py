@@ -1,3 +1,4 @@
+from __future__ import annotations
 """pipeline_builder module."""
 
 import os

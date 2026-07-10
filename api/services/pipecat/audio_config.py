@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Audio configuration for pipeline components.
 
 This module provides centralized audio configuration to ensure consistent

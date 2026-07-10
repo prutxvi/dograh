@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Registry to store WebSocket senders by workflow_run_id.
 
 This allows the pipeline observer to send messages back through

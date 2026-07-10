@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Filesystem-backed cache and audio fetcher for workflow recordings.
 
 Downloads recording files from object storage on first access, converts them

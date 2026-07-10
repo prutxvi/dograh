@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Recording router processor for routing LLM output between TTS and pre-recorded audio.
 
 Sits between the LLM (after pipeline_engine_callbacks_processor) and TTS in the

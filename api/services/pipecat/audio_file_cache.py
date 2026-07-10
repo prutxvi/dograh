@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Shared utilities for downloading, converting, and caching audio files.
 
 Provides helpers used by both the recording audio cache and the ambient

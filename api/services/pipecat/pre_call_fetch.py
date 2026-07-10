@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Pre-call HTTP data fetch for StartCall node.
 
 Executes an HTTP request before a voice call starts to enrich the

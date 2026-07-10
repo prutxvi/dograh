@@ -1,3 +1,4 @@
+from __future__ import annotations
 """service_factory module."""
 
 from typing import TYPE_CHECKING

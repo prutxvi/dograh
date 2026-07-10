@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Shared helpers for building and ordering realtime feedback events."""
 
 from typing import Any

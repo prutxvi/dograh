@@ -1,3 +1,4 @@
+from __future__ import annotations
 """run_pipeline module."""
 
 import asyncio

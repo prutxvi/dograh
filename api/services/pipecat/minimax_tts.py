@@ -1,3 +1,4 @@
+from __future__ import annotations
 """MiniMax TTS wrapper that closes its aiohttp session in cleanup().
 
 Pipecat's MiniMaxHttpTTSService leaves session disposal to the caller. Our

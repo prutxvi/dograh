@@ -1,3 +1,4 @@
+from __future__ import annotations
 """tracing_config module."""
 
 import base64

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Utilities for playing audio through the pipeline transport.
 
 Provides one-shot and looping playback of raw PCM audio.  All playback

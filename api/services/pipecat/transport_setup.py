@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Transport factories for non-telephony pipelines.
 
 Telephony transports live in their respective ``api.services.telephony.providers/<name>/transport.py``.

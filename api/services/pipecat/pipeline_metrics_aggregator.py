@@ -1,3 +1,4 @@
+from __future__ import annotations
 """pipeline_metrics_aggregator module."""
 
 import time
