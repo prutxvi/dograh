@@ -1,3 +1,4 @@
+from __future__ import annotations
 """stack_auth module."""
 
 import os

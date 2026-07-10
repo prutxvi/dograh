@@ -1,3 +1,4 @@
+from __future__ import annotations
 """depends module."""
 
 from typing import Annotated, Optional
