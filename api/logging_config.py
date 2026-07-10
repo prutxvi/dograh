@@ -1,3 +1,4 @@
+from __future__ import annotations
 """logging_config module."""
 
 import logging

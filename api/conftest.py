@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Pytest configuration and fixtures for async database testing.
 

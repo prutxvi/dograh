@@ -1,3 +1,4 @@
+from __future__ import annotations
 """enums module."""
 
 from enum import Enum
