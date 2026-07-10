@@ -1,3 +1,4 @@
+from __future__ import annotations
 """posthog_client module."""
 
 from loguru import logger

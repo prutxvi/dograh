@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Quota checking service for Dograh credits.
 
 This module provides reusable quota checking functionality that can be used

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 MPS Service Key HTTP Client
 This client communicates with the Model Proxy Service (MPS) for service key management.
