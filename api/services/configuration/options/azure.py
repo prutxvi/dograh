@@ -1,3 +1,4 @@
+from __future__ import annotations
 """azure module."""
 
 AZURE_MODELS = ["gpt-4.1-mini"]

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """sarvam module."""
 
 SARVAM_TTS_MODELS = ("bulbul:v2", "bulbul:v3")

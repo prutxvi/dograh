@@ -1,3 +1,4 @@
+from __future__ import annotations
 """gladia module."""
 
 GLADIA_STT_MODELS = ("solaria-1",)

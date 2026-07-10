@@ -1,3 +1,4 @@
+from __future__ import annotations
 """speechmatics module."""
 
 SPEECHMATICS_STT_LANGUAGES = (
