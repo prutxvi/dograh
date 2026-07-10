@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Regression tests for Cloudonix CDR webhook handling.
 
 A Cloudonix CDR webhook is a public, unauthenticated endpoint that parses
