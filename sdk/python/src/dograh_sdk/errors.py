@@ -1,3 +1,4 @@
+from __future__ import annotations
 """SDK-level exceptions.
 
 All errors raised from `dograh_sdk` are subclasses of `DograhSdkError` so

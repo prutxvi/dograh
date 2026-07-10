@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh SDK — typed builder for voice-AI workflows.
 
 Runtime SDK: fetches the spec catalog from the Dograh backend at session
