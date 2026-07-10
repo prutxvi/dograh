@@ -1,3 +1,4 @@
+from __future__ import annotations
 """__init__ module."""
 
 from .base import EventCallback, STTProvider, TranscriptionResult, Word

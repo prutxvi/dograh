@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Local Smart Turn provider for benchmarking end-of-turn detection.
 
 Uses the pipecat smart-turn-v3 ONNX model for local ML-based turn detection.

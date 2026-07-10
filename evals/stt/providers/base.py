@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Base classes for STT providers."""
 
 from abc import ABC, abstractmethod

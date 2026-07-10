@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Deepgram STT provider with WebSocket streaming."""
 
 import asyncio

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Deepgram Flux STT provider with WebSocket streaming.
 
 Flux is Deepgram's conversational AI model with built-in turn detection.

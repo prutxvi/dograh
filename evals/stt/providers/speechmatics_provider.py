@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Speechmatics STT provider with WebSocket streaming."""
 
 import asyncio
