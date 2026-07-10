@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telnyx-specific call operation strategies.
 
 Caller-side leg of the conference-based transfer. The destination is already

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telnyx telephony routes (webhooks, status callbacks, answer URLs).
 
 Mounted under ``/api/v1/telephony`` by ``api.routes.telephony`` via the

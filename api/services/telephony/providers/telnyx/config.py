@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telnyx telephony configuration schemas."""
 
 from typing import List, Literal, Optional

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Telnyx implementation of the TelephonyProvider interface.
 Uses the Telnyx Call Control API v2 for outbound calling with

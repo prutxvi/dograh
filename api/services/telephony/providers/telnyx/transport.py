@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telnyx transport factory."""
 
 from fastapi import WebSocket
