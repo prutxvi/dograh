@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Generative AI services for embeddings and document processing."""
 
 from .embedding import (
