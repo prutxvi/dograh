@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh subclass of pipecat's Gemini Live LLM service.
 
 Layers Dograh engine integration quirks onto upstream-pristine

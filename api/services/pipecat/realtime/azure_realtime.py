@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh subclass of pipecat's Azure OpenAI Realtime LLM service.
 
 Layers Dograh engine integration quirks (mute gating, TTSSpeakFrame greeting

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh-specific subclasses of pipecat realtime LLM services.
 
 Each subclass wires Dograh engine integration quirks (user-mute gating,

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh subclass of pipecat's Gemini Live Vertex AI LLM service.
 
 Diamond inheritance: combines the Dograh engine-integration overrides from

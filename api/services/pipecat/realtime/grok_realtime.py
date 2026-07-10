@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dograh subclass of pipecat's Grok Realtime LLM service.
 
 Layers Dograh engine integration quirks onto upstream-pristine
