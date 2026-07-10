@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Worker sync event protocol.
 
 Defines the message format for cross-worker state synchronization via Redis pub/sub.

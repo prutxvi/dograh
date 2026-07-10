@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Worker sync manager for cross-worker state propagation.
 
 Each FastAPI worker both publishes and listens on a single Redis pub/sub
