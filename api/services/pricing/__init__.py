@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Pricing module for workflow cost calculation.
 

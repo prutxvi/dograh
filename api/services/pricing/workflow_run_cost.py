@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_run_cost module."""
 
 from decimal import Decimal

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Main pricing registry that combines all service type pricing models.
 """

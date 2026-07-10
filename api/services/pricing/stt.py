@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 STT (Speech-to-Text) pricing models for different providers.
 

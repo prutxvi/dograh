@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 LLM pricing models for different providers.
 

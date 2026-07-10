@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 TTS (Text-to-Speech) pricing models for different providers.
 
