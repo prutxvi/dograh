@@ -1,3 +1,4 @@
+from __future__ import annotations
 """GENERATED — do not edit by hand.
 
 Re-exports every typed node class so users can write
