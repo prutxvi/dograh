@@ -1,3 +1,4 @@
+from __future__ import annotations
 """constants module."""
 
 DEFAULT_QA_SYSTEM_PROMPT = """You are a QA analyst evaluating a specific segment of a voice AI conversation.
