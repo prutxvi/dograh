@@ -1,3 +1,4 @@
+from __future__ import annotations
 """runner module."""
 
 from datetime import UTC, datetime

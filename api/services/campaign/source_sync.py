@@ -1,3 +1,4 @@
+from __future__ import annotations
 """source_sync module."""
 
 from abc import ABC, abstractmethod

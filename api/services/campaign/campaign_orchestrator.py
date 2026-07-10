@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Campaign Orchestrator Service.
 
 This service ensures continuous campaign processing by listening to events

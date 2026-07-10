@@ -1,3 +1,4 @@
+from __future__ import annotations
 """source_sync_factory module."""
 
 from api.services.campaign.source_sync import CampaignSourceSyncService

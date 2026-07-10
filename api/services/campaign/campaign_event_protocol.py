@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Campaign event protocol for orchestrator communication.
 
 Defines message formats and helpers for campaign event publishing and handling.

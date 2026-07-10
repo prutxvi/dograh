@@ -1,3 +1,4 @@
+from __future__ import annotations
 """rate_limiter module."""
 
 import time

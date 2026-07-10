@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Campaign event publisher for orchestrator communication.
 
 Handles publishing of campaign events to Redis pub/sub channels.

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Campaign service package"""
 
 from .rate_limiter import rate_limiter

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Campaign circuit breaker for automatic pause on high failure rates.
 
 Uses two Redis sorted sets (ZSETs) per campaign — one for failures, one for
