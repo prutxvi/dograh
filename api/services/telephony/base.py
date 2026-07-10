@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Base telephony provider interface for abstracting telephony services.
 This allows easy switching between different providers (Twilio, Vonage, etc.)

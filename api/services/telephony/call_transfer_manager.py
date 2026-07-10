@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Redis-based transfer event coordination service
 
 Handles transfer event publishing, subscription, and context storage

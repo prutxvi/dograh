@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Provider-agnostic call status processing.
 
 Extracted from ``api/routes/telephony.py`` so that per-provider route

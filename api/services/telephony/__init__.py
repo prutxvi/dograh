@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Telephony package.
 
 Importing this package eagerly loads every provider in

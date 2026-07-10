@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Factory for creating telephony providers.
 
 Resolves a provider instance from a stored telephony configuration. Three
