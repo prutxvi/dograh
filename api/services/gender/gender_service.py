@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Gender prediction service with local model and GenderAPI fallback.
 Internal service for use within Dograh platform.

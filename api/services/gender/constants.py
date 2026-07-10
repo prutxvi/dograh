@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Hyperparameters and configuration for gender prediction service.
 """

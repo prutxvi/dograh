@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Build gender prediction model from SSA baby names data.
 Generates a compressed JSON model file.
