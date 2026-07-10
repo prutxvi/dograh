@@ -1,3 +1,4 @@
+from __future__ import annotations
 """fix unique constraint on workflow definition
 
 Revision ID: 0c1bbc83fe9e

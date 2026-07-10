@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add provider
 
 Revision ID: 20c780c2a218

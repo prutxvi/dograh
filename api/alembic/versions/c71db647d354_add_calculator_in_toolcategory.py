@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add calculator in ToolCategory
 
 Revision ID: c71db647d354

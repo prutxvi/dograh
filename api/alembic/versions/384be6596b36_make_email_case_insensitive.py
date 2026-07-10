@@ -1,3 +1,4 @@
+from __future__ import annotations
 """make email case insensitive
 
 Revision ID: 384be6596b36

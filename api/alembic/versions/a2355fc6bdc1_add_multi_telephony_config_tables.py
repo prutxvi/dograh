@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add multi telephony config tables
 
 Revision ID: a2355fc6bdc1

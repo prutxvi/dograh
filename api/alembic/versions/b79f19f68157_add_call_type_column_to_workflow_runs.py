@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add call_type column to workflow_runs
 
 Revision ID: b79f19f68157

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add is_superuser to user model
 
 Revision ID: 9641b4f306cd

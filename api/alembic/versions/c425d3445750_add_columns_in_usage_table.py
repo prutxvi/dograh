@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add columns in usage table
 
 Revision ID: c425d3445750

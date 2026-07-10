@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add index
 
 Revision ID: fec0fb9a8db7

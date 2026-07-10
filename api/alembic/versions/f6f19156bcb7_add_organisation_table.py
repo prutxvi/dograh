@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add organisation table
 
 Revision ID: f6f19156bcb7

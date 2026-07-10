@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add end_call tool category
 
 Revision ID: 493ca2bb001f

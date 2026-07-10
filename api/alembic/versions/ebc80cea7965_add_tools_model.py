@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add tools model
 
 Revision ID: ebc80cea7965

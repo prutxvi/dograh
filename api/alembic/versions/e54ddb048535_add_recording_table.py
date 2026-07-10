@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add recording table
 
 Revision ID: e54ddb048535

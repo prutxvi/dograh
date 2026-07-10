@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add organization configurations
 
 Revision ID: 1225ac786848

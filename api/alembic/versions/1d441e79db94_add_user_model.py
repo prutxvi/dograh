@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Add user model
 
 Revision ID: 1d441e79db94

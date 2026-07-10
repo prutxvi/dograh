@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add price_per_second_usd
 
 Revision ID: 7feef09d7cc6

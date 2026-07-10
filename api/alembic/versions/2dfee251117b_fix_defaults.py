@@ -1,3 +1,4 @@
+from __future__ import annotations
 """fix defaults
 
 Revision ID: 2dfee251117b

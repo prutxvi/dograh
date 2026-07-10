@@ -1,3 +1,4 @@
+from __future__ import annotations
 """dedup recordings to org-scoped unique audio
 
 Revision ID: 3cd3155084a2

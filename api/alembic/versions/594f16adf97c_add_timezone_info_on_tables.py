@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add timezone info on tables
 
 Revision ID: 594f16adf97c

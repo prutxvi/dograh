@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add_vonage_and_rename_config
 
 Revision ID: a57d25b75117

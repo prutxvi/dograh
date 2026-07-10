@@ -1,3 +1,4 @@
+from __future__ import annotations
 """remove workflow definition id from workflow
 
 Revision ID: 9f5f2d35f6fb

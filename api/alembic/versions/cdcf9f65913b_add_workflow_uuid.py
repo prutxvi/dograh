@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow_uuid
 
 Revision ID: cdcf9f65913b

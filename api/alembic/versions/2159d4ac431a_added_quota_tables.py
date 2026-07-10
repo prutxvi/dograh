@@ -1,3 +1,4 @@
+from __future__ import annotations
 """added quota tables
 
 Revision ID: 2159d4ac431a

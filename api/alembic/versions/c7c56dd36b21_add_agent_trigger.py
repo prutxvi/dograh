@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add agent trigger
 
 Revision ID: c7c56dd36b21

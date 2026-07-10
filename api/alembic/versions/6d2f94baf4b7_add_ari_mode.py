@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add ari mode
 
 Revision ID: 6d2f94baf4b7

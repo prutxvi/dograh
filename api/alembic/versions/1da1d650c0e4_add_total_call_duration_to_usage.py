@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add total call duration to usage
 
 Revision ID: 1da1d650c0e4

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add index in workflow run
 
 Revision ID: 02ffd7f23d1d

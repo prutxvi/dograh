@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add mcp in ToolCategory
 
 Revision ID: 0a1b2c3d4e5f

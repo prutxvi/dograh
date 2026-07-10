@@ -1,3 +1,4 @@
+from __future__ import annotations
 """make recordings org-scoped instead of workflow-scoped
 
 Revision ID: 67a5cf3e09d0

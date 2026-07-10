@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add vobiz mode for workflow
 
 Revision ID: a188ff90e76f

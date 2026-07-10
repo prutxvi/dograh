@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add last validated at
 
 Revision ID: a29b05f31ddf

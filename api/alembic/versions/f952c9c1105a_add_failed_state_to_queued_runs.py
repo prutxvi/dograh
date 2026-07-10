@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add failed state to queued runs
 
 Revision ID: f952c9c1105a

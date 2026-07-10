@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add_state_field_to_workflow_runs
 
 Revision ID: 49a8fe6841e6

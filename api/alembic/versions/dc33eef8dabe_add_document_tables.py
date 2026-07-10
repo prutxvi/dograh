@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add document tables
 
 Revision ID: dc33eef8dabe

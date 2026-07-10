@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add transfer_call tool category
 
 Revision ID: 1a7d74d54e8f

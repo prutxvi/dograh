@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add annotations in workflow run model
 
 Revision ID: 2ed4baa89f15

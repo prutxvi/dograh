@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Drop workflow_run_mode Postgres enum, store mode as VARCHAR.
 
 The Postgres enum required a migration every time a new telephony provider

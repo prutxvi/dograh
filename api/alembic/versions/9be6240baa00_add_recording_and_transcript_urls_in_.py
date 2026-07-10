@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add recording and transcript urls in workflow run
 
 Revision ID: 9be6240baa00

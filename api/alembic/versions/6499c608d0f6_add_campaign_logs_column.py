@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add campaign logs column
 
 Revision ID: 6499c608d0f6

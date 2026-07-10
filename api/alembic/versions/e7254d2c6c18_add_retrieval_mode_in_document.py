@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add retrieval mode in document
 
 Revision ID: e7254d2c6c18

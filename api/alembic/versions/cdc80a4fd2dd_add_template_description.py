@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add template description
 
 Revision ID: cdc80a4fd2dd

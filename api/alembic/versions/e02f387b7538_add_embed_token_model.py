@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add embed token model
 
 Revision ID: e02f387b7538

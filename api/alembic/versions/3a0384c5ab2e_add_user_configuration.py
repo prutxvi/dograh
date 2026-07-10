@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add user configuration
 
 Revision ID: 3a0384c5ab2e

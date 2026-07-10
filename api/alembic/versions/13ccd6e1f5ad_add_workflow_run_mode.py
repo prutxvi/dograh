@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow run mode
 
 Revision ID: 13ccd6e1f5ad

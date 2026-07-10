@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add external credentials model
 
 Revision ID: 36b5dbf670e4

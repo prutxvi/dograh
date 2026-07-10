@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add telnyx mode
 
 Revision ID: b3a1c7e94f12

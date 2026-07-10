@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Add workflow run
 
 Revision ID: 2d6e2f41caa2

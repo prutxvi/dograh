@@ -1,3 +1,4 @@
+from __future__ import annotations
 """make json not nullable
 
 Revision ID: 0c1223cc266f

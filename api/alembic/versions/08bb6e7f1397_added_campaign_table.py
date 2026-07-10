@@ -1,3 +1,4 @@
+from __future__ import annotations
 """added campaign table
 
 Revision ID: 08bb6e7f1397

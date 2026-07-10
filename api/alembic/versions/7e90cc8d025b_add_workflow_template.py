@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow template
 
 Revision ID: 7e90cc8d025b

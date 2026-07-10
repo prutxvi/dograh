@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add queued runs table
 
 Revision ID: 4735a1f0cdb3

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add_looptalk_testing_tables_without_turns
 
 Revision ID: e0d1a9b9f6c4

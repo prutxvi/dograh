@@ -1,3 +1,4 @@
+from __future__ import annotations
 """change datatype of usage to float
 
 Revision ID: ec010596a0b4

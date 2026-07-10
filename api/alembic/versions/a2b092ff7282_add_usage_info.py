@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add usage info
 
 Revision ID: a2b092ff7282

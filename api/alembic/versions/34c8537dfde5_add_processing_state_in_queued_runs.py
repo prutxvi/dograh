@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add processing state in queued runs
 
 Revision ID: 34c8537dfde5

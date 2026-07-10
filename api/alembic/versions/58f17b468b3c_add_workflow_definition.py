@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow definition
 
 Revision ID: 58f17b468b3c

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add public_access_token
 
 Revision ID: 181475b2a1a1

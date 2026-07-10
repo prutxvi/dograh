@@ -1,3 +1,4 @@
+from __future__ import annotations
 """retry outbound calls for campaigns
 
 Revision ID: fefdd1835b7d

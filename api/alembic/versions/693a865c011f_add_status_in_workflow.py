@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add status in workflow
 
 Revision ID: 693a865c011f

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add connection details
 
 Revision ID: d11fbd083a55

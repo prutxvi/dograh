@@ -1,3 +1,4 @@
+from __future__ import annotations
 """drop_looptalk_tables
 
 Revision ID: 4c1f1e3e8ef2

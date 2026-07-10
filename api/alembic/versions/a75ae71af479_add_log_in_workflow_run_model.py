@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add log in workflow run model
 
 Revision ID: a75ae71af479

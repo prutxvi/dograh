@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add user email and password
 
 Revision ID: 6fd8fac02883

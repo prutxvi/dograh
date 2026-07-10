@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add organisation_id in workflow
 
 Revision ID: 477b47ce346b

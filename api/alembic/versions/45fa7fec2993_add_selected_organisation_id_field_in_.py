@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add selected organisation id field in user model
 
 Revision ID: 45fa7fec2993

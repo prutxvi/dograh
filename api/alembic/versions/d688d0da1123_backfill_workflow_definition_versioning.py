@@ -1,3 +1,4 @@
+from __future__ import annotations
 """backfill workflow definition versioning
 
 Copy workflow_configurations, template_context_variables, call_disposition_codes

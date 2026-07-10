@@ -1,3 +1,4 @@
+from __future__ import annotations
 """make tts columns nullable on workflow_recordings
 
 Revision ID: a1b2c3d4e5f6

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow id in workflow definition
 
 Revision ID: 9ef49df72862

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add versioning in workflow definitions
 
 Revision ID: a399b39479fe

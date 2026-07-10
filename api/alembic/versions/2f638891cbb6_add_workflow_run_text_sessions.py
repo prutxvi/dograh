@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add workflow_run_text_sessions
 
 Revision ID: 2f638891cbb6

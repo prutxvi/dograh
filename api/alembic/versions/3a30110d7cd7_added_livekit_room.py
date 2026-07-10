@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Added livekit room
 
 Revision ID: 3a30110d7cd7

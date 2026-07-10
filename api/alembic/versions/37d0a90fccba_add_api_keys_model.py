@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Add API Keys model
 
 Revision ID: 37d0a90fccba

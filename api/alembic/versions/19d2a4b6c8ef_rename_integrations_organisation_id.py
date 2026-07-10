@@ -1,3 +1,4 @@
+from __future__ import annotations
 """rename integrations organisation_id to organization_id
 
 Revision ID: 19d2a4b6c8ef

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add integrations
 
 Revision ID: d666f3244648

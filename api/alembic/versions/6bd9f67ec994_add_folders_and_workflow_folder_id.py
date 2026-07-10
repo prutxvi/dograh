@@ -1,3 +1,4 @@
+from __future__ import annotations
 """add folders and workflow folder_id
 
 Revision ID: 6bd9f67ec994

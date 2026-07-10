@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Add workflow model
 
 Revision ID: 93a1ddbb6ffd
