@@ -1,3 +1,4 @@
+from __future__ import annotations
 """check_validity module."""
 
 from typing import Optional, TypedDict
