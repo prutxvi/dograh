@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for understanding voicemail detector behavior with user aggregator and LLM.
 
 This module tests the interaction between the voicemail detector, user aggregator,

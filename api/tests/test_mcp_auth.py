@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_mcp_auth module."""
 
 from unittest.mock import AsyncMock, MagicMock, patch

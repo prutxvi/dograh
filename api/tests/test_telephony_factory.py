@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_telephony_factory module."""
 
 from types import SimpleNamespace

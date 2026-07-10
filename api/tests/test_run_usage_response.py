@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_run_usage_response module."""
 
 from api.services.pricing.run_usage_response import format_public_usage_info

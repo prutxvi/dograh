@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for verifying end_call_with_reason behavior in different scenarios.
 
 This module tests the end call flow in PipecatEngine with multiple scenarios:

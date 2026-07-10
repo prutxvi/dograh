@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests verifying user is muted while a transition function is executing.
 
 When the LLM calls a transition function (registered via

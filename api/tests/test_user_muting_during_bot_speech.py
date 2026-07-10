@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for verifying user muting behavior based on bot speaking state.
 
 This module tests the user muting behavior with different allow_interrupt settings:

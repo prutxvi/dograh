@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_is_private_ip_candidate module."""
 
 from api.enums import Environment

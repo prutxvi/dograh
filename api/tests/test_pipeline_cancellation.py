@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_pipeline_cancellation module."""
 
 import asyncio

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_mcp_get_workflow module."""
 
 from types import SimpleNamespace

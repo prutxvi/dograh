@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_json_parser module."""
 
 from api.services.gen_ai.json_parser import (

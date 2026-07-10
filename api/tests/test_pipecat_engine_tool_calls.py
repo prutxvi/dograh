@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for tool calls with PipecatEngine and MockLLM.
 
 This module tests the behavior when the LLM generates tool calls (single or parallel),

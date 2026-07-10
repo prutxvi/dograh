@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Tests for get_backend_endpoints function in api/utils/common.py
 

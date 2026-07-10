@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_mcp_tool_definition module."""
 
 import importlib

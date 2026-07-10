@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_grok_realtime_wrapper module."""
 
 from types import SimpleNamespace

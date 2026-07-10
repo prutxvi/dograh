@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_text_chat_logs module."""
 
 from api.services.workflow.text_chat_logs import (

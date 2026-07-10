@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_realtime_feedback_events module."""
 
 from api.services.pipecat.realtime_feedback_events import (

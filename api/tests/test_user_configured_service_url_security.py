@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_user_configured_service_url_security module."""
 
 from types import SimpleNamespace

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for TTS pause_frame_processing with audio write failure scenarios.
 
 This module tests a scenario where:

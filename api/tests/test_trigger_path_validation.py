@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_trigger_path_validation module."""
 
 from api.services.workflow.trigger_paths import (

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_mcp_custom_tool_manager module."""
 
 import uuid

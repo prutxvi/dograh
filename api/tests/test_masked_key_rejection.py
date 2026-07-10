@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_masked_key_rejection module."""
 
 from types import SimpleNamespace

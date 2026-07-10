@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Golden-test parity for the display_options evaluator.
 
 Both the Python `evaluate_display_options` and the TypeScript

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_run_pipeline_realtime_turn_config module."""
 
 from pipecat.audio.vad.silero import SileroVADAnalyzer

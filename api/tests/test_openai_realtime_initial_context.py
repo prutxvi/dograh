@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_openai_realtime_initial_context module."""
 
 from types import SimpleNamespace

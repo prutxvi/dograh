@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_workflow_list_route module."""
 
 from datetime import datetime, timezone

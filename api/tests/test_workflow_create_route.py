@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_workflow_create_route module."""
 
 from types import SimpleNamespace

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Integration tests for CustomToolManager with LLM context updates.
 
 This module tests the full flow of:

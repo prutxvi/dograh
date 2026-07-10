@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_gemini_live_reconnect_tool_results module."""
 
 import json

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_workflow_run_cost module."""
 
 from datetime import UTC, datetime

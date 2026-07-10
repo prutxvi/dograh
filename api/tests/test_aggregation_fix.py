@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_aggregation_fix module."""
 
 from unittest.mock import Mock

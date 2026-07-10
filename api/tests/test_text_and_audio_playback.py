@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for text and audio playback in greetings, transitions, and tool messages.
 
 Verifies that:

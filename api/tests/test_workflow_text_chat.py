@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_workflow_text_chat module."""
 
 from types import SimpleNamespace

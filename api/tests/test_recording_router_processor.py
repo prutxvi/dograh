@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for RecordingRouterProcessor mixed-marker handling.
 
 When the LLM generates a response containing both a TTS marker (▸) and a

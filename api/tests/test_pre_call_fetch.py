@@ -1,3 +1,4 @@
+from __future__ import annotations
 """test_pre_call_fetch module."""
 
 from api.services.pipecat.pre_call_fetch import _extract_initial_context

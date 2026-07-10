@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Test that add_call_disposition_code correctly persists changes.
 
 The bug: `codes` is a reference to the list inside the JSON column value.

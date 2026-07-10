@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for public WebRTC signaling allowed-domain enforcement.
 
 Regression for issue #330: the public signaling WebSocket

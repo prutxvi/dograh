@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for verifying behavior when node switch and user speech happen simultaneously.
 
 This module tests the interaction between node transitions and user speaking events

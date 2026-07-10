@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for verifying context is updated before next LLM completion during node transitions.
 
 This module tests that when the LLM calls a node transition function, the context is

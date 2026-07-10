@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Tests verifying that the from_number pool isolates numbers per
 telephony_configuration_id within an organization.
