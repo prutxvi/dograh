@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Dump the FastAPI OpenAPI spec to docs/api-reference/openapi.json.
 
 Run from the repo root with the api environment available:
