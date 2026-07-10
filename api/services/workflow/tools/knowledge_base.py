@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Knowledge Base retrieval tool for workflow execution.
 
 This module provides vector similarity search capabilities for retrieving

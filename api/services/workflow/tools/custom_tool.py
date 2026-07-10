@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Custom tool execution for user-defined HTTP API tools."""
 
 import json

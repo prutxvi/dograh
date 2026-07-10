@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Time tools for LLM function calling - timezone and time conversion utilities."""
 
 from datetime import datetime, timedelta
