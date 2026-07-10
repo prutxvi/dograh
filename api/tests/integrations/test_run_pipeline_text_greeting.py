@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Integration test for the text-greeting flow through ``_run_pipeline``.
 
 Drives the full pipeline produced by ``_run_pipeline`` against the test

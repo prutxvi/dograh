@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Shared scaffolding for ``_run_pipeline`` integration tests.
 
 Both ``test_run_pipeline.py`` and ``test_run_pipeline_text_greeting.py``
