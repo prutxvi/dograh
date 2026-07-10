@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Tests for CallTransferManager Redis-backed transfer-context lookup.
 
 These tests verify (regression for issue #328):
