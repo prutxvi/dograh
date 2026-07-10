@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Audio file streamer - converts audio files to PCM16 streams."""
 
 import asyncio
