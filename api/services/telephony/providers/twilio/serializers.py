@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Twilio frame serializer.
 
 Re-exported from pipecat. Kept local so transport.py imports from
