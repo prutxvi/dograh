@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_run_text_session_client module."""
 
 from sqlalchemy.future import select

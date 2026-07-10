@@ -1,3 +1,4 @@
+from __future__ import annotations
 """folder_client module."""
 
 from sqlalchemy import func

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """organization_configuration_client module."""
 
 from typing import Any, Dict, List, Optional

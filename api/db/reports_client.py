@@ -1,3 +1,4 @@
+from __future__ import annotations
 """reports_client module."""
 
 from datetime import datetime

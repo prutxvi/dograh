@@ -1,3 +1,4 @@
+from __future__ import annotations
 """user_client module."""
 
 import uuid

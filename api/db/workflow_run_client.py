@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_run_client module."""
 
 import uuid

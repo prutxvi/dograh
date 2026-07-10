@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_client module."""
 
 from datetime import UTC, datetime

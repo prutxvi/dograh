@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Database client for managing webhook credentials."""
 
 from datetime import UTC, datetime

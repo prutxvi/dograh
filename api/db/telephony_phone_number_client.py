@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Database access for telephony phone numbers.
 
 Phone numbers are first-class entities (PSTN, SIP URI, or SIP extension)

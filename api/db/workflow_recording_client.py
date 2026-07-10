@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Database client for managing workflow recordings."""
 
 import secrets

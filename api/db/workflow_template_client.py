@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_template_client module."""
 
 from sqlalchemy.future import select

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Common filter utilities for database queries."""
 
 from datetime import datetime

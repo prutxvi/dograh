@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Database access for telephony configurations.
 
 Each row represents one provider account that an organization has connected

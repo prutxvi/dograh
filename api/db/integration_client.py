@@ -1,3 +1,4 @@
+from __future__ import annotations
 """integration_client module."""
 
 from typing import List

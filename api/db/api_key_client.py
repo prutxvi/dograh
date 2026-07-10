@@ -1,3 +1,4 @@
+from __future__ import annotations
 """api_key_client module."""
 
 from typing import List, Optional

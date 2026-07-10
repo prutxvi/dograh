@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Database client for managing knowledge base documents and chunks."""
 
 import hashlib

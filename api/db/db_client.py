@@ -1,3 +1,4 @@
+from __future__ import annotations
 """db_client module."""
 
 from api.db.agent_trigger_client import AgentTriggerClient
