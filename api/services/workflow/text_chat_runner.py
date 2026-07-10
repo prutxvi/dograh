@@ -1,3 +1,4 @@
+from __future__ import annotations
 """text_chat_runner module."""
 
 import asyncio

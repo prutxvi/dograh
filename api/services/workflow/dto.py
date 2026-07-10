@@ -1,3 +1,4 @@
+from __future__ import annotations
 """dto module."""
 
 from enum import Enum

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Service for duplicating workflows."""
 
 import copy

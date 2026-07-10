@@ -1,3 +1,4 @@
+from __future__ import annotations
 """pipecat_engine module."""
 
 from typing import TYPE_CHECKING, Awaitable, Callable, Dict, Literal, Optional, Union

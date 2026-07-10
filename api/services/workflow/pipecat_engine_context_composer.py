@@ -1,3 +1,4 @@
+from __future__ import annotations
 """System prompt and function schema composition for PipecatEngine nodes.
 
 Extracts prompt and function composition logic from PipecatEngine into

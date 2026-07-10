@@ -1,3 +1,4 @@
+from __future__ import annotations
 """trigger_paths module."""
 
 import copy

@@ -1,3 +1,4 @@
+from __future__ import annotations
 # api/services/workflow/errors.py
 from enum import Enum
 from typing import TypedDict

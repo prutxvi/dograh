@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Service helpers for text-chat session lifecycle orchestration."""
 
 from datetime import UTC, datetime

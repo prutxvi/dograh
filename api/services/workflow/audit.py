@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Rule-based audit of a workflow definition's nodes + edges.
 
 Pure, dependency-free helpers derived from `NodeSpec.graph_constraints`.

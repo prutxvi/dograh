@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Utility module for applying disposition code mapping."""
 
 from loguru import logger
