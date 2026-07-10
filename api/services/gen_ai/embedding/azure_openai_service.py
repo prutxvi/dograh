@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Azure OpenAI embedding service.
 
 Uses the Azure OpenAI REST API for text embeddings, compatible with

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Embedding services for document processing and retrieval."""
 
 from .azure_openai_service import (

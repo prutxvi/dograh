@@ -1,3 +1,4 @@
+from __future__ import annotations
 """OpenAI embedding service.
 
 Embeds text and performs vector similarity search via the local database.
