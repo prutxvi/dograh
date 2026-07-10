@@ -1,3 +1,4 @@
+from __future__ import annotations
 """ARQ worker configuration - setup logging before importing tasks"""
 
 import ssl

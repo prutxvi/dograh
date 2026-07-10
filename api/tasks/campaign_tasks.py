@@ -1,3 +1,4 @@
+from __future__ import annotations
 """campaign_tasks module."""
 
 from datetime import UTC, datetime

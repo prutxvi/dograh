@@ -1,3 +1,4 @@
+from __future__ import annotations
 """ARQ background task for processing knowledge base documents.
 
 Document conversion and chunking live in the Model Proxy Service (MPS);
