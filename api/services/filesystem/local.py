@@ -1,3 +1,4 @@
+from __future__ import annotations
 """local module."""
 
 import asyncio

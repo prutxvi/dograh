@@ -1,3 +1,4 @@
+from __future__ import annotations
 """base module."""
 
 from abc import ABC, abstractmethod

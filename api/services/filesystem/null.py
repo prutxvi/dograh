@@ -1,3 +1,4 @@
+from __future__ import annotations
 """null module."""
 
 from typing import Any, BinaryIO, Dict, NoReturn, Optional

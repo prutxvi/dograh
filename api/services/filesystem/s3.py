@@ -1,3 +1,4 @@
+from __future__ import annotations
 """s3 module."""
 
 from typing import Any, BinaryIO, Dict, Optional
