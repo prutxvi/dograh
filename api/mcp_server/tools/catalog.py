@@ -1,3 +1,4 @@
+from __future__ import annotations
 """MCP discovery tools for the reference catalogs.
 
 Node properties of type `tool_refs`, `document_refs`, `recording_ref`, and

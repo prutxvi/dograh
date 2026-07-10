@@ -1,3 +1,4 @@
+from __future__ import annotations
 """MCP discovery tools for node specifications.
 
 LLMs call these tools first to learn the available node-type catalog and
