@@ -1,3 +1,4 @@
+from __future__ import annotations
 """transcript module."""
 
 from typing import List

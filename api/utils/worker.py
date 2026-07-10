@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Utilities for worker process identification."""
 
 import multiprocessing

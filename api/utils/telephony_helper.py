@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Telephony helper utilities.
 Common functions used across telephony operations.

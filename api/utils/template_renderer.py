@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Template rendering utility with support for nested JSON paths."""
 
 import json

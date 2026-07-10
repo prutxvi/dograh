@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Utility for getting the cloudflared tunnel URL at runtime."""
 
 import asyncio

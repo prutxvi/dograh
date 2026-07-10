@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Common utilities.
 Shared functions used across the application.

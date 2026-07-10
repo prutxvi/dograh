@@ -1,3 +1,4 @@
+from __future__ import annotations
 """api_key module."""
 
 import hashlib

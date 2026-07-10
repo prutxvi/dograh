@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Build HTTP authentication headers from ExternalCredentialModel.
 
 This module provides functions for constructing HTTP authentication headers

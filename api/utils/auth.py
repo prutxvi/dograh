@@ -1,3 +1,4 @@
+from __future__ import annotations
 """auth module."""
 
 from datetime import UTC, datetime, timedelta

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Helpers for workflow run artifact access."""
 
 from api.constants import BACKEND_API_ENDPOINT
