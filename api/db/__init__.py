@@ -4,3 +4,5 @@ from __future__ import annotations
 from api.db.db_client import DBClient
 
 db_client = DBClient()
+
+__all__ = []
