@@ -1,3 +1,4 @@
+from __future__ import annotations
 """API routes for managing tools."""
 
 from typing import List, Optional

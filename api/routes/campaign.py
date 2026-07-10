@@ -1,3 +1,4 @@
+from __future__ import annotations
 """campaign module."""
 
 import json

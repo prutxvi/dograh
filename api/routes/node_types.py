@@ -1,3 +1,4 @@
+from __future__ import annotations
 """API for the node-spec catalog.
 
 Exposes the registered NodeSpecs (one per node type) so frontend renderers

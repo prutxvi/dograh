@@ -1,3 +1,4 @@
+from __future__ import annotations
 """service_keys module."""
 
 from typing import List

@@ -1,3 +1,4 @@
+from __future__ import annotations
 """user module."""
 
 from datetime import datetime, timedelta

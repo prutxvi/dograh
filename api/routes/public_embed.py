@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Public API endpoints for workflow embedding.
 
 These endpoints are accessible without authentication but require valid embed tokens.

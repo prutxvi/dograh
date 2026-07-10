@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 Telephony routes - handles all telephony-related endpoints.
 Consolidated from split modules for easier maintenance.

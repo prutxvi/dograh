@@ -1,3 +1,4 @@
+from __future__ import annotations
 """s3_signed_url module."""
 
 import re

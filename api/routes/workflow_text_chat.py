@@ -1,3 +1,4 @@
+from __future__ import annotations
 """workflow_text_chat module."""
 
 from datetime import datetime

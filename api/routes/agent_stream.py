@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Agent-stream WebSocket endpoint.
 
 A single ``/agent-stream/{workflow_uuid}`` socket where a caller can drive

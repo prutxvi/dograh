@@ -1,3 +1,4 @@
+from __future__ import annotations
 """TURN credentials endpoint for time-limited WebRTC authentication.
 
 This module implements the TURN REST API credential generation as specified in

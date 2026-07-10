@@ -1,3 +1,4 @@
+from __future__ import annotations
 """API routes for workflow recording operations."""
 
 from typing import Annotated, Optional

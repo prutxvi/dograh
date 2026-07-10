@@ -1,3 +1,4 @@
+from __future__ import annotations
 """WebSocket-based WebRTC signaling endpoint with ICE trickling support.
 
 This implementation uses WebSocket-based signaling instead of HTTP PATCH for ICE candidates,

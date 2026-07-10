@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Public download endpoints for workflow recordings and transcripts.
 
 These endpoints provide secure, token-based public access to workflow artifacts

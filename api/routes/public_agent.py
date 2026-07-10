@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Public API endpoints for public agent execution.
 
 These endpoints are accessible with API key authentication and allow

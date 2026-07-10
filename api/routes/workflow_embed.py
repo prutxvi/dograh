@@ -1,3 +1,4 @@
+from __future__ import annotations
 """Embed token endpoints for workflows."""
 
 from datetime import UTC, datetime, timedelta
