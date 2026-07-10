@@ -32,3 +32,8 @@ node_modules/
 .tmp
 dist/
 build/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
