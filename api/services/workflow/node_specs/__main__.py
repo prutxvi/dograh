@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Dump the registered NodeSpecs to stdout as JSON.
 
 Used by `scripts/generate_sdk.sh` to feed both SDK codegens without
