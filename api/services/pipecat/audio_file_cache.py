@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Shared utilities for downloading, converting, and caching audio files.
 
