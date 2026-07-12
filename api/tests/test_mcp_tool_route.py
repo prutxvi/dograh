@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Route-level tests for the MCP tool definition schema.
 
 These tests exercise the Pydantic request models (CreateToolRequest /
