@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Custom tool management for PipecatEngine.
 
 This module handles fetching, registering, and executing user-defined tools
