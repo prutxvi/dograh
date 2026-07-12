@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Resolve effective config by merging per-workflow model overrides onto global config."""
 
 from __future__ import annotations
