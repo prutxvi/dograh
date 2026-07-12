@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """node_data module."""
 
 from __future__ import annotations
