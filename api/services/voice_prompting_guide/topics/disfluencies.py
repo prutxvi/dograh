@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: build human disfluencies into the agent's speech."""
 
 from __future__ import annotations
