@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Telephony address normalization.
 
 Telephony "from" / "to" identifiers can be PSTN numbers (E.164 or local),
