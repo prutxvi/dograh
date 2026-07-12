@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP tool that surfaces voice-prompting guidance to the workflow-authoring LLM.
 
 The guide is split into stages (plan / create / review) and atoms
