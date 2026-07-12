@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Vonage telephony routes (webhooks, status callbacks, answer URLs).
 
