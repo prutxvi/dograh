@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """
 Asterisk ARI (Asterisk REST Interface) implementation of the TelephonyProvider interface.
