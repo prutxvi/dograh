@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: when and how the agent should call tools."""
 
 from __future__ import annotations
