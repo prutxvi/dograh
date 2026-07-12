@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """runtime module."""
 
 from __future__ import annotations
