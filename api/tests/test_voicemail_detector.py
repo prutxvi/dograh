@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Tests for understanding voicemail detector behavior with user aggregator and LLM.
 
