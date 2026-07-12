@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: spoken form for numbers, dates, and money.
 
 This is the canonical `review_signals` carrier. The signals fire on
