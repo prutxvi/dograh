@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: short, spoken-style responses — write for the ear, not the eye."""
 
 from __future__ import annotations
