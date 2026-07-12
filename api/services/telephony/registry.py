@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Provider registry for telephony.
 
 Each provider package registers itself by importing this module and calling
