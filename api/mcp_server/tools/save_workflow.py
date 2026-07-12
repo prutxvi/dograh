@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP tool that accepts LLM-authored SDK TypeScript and saves it as a draft.
 
 Execution flow:
