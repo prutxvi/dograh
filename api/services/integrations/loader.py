@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """loader module."""
 
 from __future__ import annotations
