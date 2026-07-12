@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Node specification registry.
 
 Core node specs are generated from the workflow DTO models. Third-party
