@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Voice-prompting guide: atoms × stage lenses, surfaced to the LLM
 that authors Dograh voice workflows.
