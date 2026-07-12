@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """End-to-end tests for the Node TS validator bridge.
 
 Exercises the real `node` subprocess — slow-ish but the whole point is
