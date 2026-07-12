@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Service layer for reusable tool management.
 
 Routes and MCP tools both use this module so validation, credential
