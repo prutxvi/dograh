@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """GENERATED — do not edit by hand.
 
 Regenerate with `python -m dograh_sdk.codegen` against the target
