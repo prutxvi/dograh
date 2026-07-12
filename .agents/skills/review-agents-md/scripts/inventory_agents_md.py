@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """Inventory AGENTS.md scopes and large uncovered subtrees.
 
 Run from the repo root:
