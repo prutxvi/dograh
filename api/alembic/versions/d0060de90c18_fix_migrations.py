@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Fix Migrations
 
 Revision ID: d0060de90c18
