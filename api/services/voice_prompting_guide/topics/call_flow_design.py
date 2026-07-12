@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: structure node prompts in sections; sequence multi-turn tasks."""
 
 from __future__ import annotations
