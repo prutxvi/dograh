@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Top-level orchestration guide surfaced to every MCP session.
 
