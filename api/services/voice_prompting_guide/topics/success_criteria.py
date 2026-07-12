@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: end every prompt with explicit success criteria."""
 
 from __future__ import annotations
