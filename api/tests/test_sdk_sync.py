@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Drift guard: committed SDK typed files must match what codegen
 produces from the current `node_specs/` registry.
 
