@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """test_mcp_tool_creation module."""
 
 from __future__ import annotations
