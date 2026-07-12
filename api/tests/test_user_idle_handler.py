@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """
 Simulates a realistic conversation and tests the user idle handler behavior.
