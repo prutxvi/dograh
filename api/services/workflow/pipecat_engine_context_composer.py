@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """System prompt and function schema composition for PipecatEngine nodes.
 
