@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Helpers for projecting text-chat session state into run-log snapshots."""
 
