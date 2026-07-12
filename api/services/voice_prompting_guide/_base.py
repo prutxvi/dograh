@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Schema for voice-prompting guidance atoms.
 
 Each `VoicePromptingTopic` is one self-contained piece of advice (e.g.
