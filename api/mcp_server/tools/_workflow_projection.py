@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """_workflow_projection module."""
 
 from __future__ import annotations
