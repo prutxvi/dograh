@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """TURN credentials endpoint for time-limited WebRTC authentication.
 
