@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Spec-quality lint.
 
 Catches drift between NodeSpecs and the rest of the system before it lands:
