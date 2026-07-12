@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Single unit that knows the MCP protocol + credentials.
 
 Wraps the vendored Pipecat ``MCPClient`` for connection/session, builds
