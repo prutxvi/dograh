@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Filesystem-backed cache and audio fetcher for workflow recordings.
 
