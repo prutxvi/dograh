@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Regression tests for WorkflowGraph edge/graph constraints + the
 rule-based audit that mirrors them.
