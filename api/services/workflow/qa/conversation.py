@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Conversation building, transcript formatting, and per-node event splitting."""
 
