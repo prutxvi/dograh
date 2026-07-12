@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Tests verifying user is muted while a transition function is executing.
 
