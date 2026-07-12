@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic registry + briefing resolver.
 
 Stage briefings are *generated* from the registered atoms; they are
