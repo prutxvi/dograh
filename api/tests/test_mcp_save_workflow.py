@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Integration tests for the `save_workflow` MCP tool.
 
 Mocks `authenticate_mcp_request` and the db_client so tests don't need
