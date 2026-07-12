@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """model_spec module."""
 
 from __future__ import annotations
