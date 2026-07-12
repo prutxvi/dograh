@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Robust JSON parser for handling common LLM output mistakes."""
 
 from __future__ import annotations
