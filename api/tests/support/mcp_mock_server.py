@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """A real FastMCP server exposing 2 tools over streamable-HTTP, run in a
 background uvicorn thread on an ephemeral port. Used to exercise the real
 MCP protocol path in tests.
