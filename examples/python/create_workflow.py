@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Create a new workflow using the Python SDK.
 
 Requirements:
