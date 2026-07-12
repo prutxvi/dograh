@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """Utility script to convert audio file sample rates using Pipecat's resampler."""
 
 import asyncio
