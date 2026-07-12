@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Tests for position reconciliation after the LLM save round-trip."""
 
 from __future__ import annotations
