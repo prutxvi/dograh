@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Local Smart Turn provider for benchmarking end-of-turn detection.
 
