@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """STT Benchmark Runner.
 
 Compare speech-to-text transcription across providers with focus on:
