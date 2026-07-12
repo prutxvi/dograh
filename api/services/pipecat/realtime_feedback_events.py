@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Shared helpers for building and ordering realtime feedback events."""
 
