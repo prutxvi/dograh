@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: end every agent turn with a question or clear nudge."""
 
 from __future__ import annotations
