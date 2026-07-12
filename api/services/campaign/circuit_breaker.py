@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Campaign circuit breaker for automatic pause on high failure rates.
 
