@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: define a concrete persona and lock the role against jailbreaks."""
 
 from __future__ import annotations
