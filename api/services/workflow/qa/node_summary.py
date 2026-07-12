@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Node summary generation and caching for per-node QA analysis."""
 
