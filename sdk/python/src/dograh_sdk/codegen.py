@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Typed SDK code generator.
 
 Reads NodeSpecs (from the live backend, a JSON file, or the in-process
