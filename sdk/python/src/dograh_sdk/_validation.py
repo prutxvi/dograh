@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Client-side validation of node data against a fetched spec.
 
 Intentionally lightweight: we catch the hallucinations that matter (typo'd
