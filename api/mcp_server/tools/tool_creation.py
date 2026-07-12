@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP tool for creating reusable Dograh tools."""
 
 from __future__ import annotations
