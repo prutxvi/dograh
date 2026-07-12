@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Integration tests for ``api.services.pipecat.run_pipeline._run_pipeline``.
 
