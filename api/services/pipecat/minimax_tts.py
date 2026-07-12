@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """MiniMax TTS wrapper that closes its aiohttp session in cleanup().
 
