@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Integration test for the text-greeting flow through ``_run_pipeline``.
 
