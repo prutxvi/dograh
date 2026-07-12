@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Callback factory helpers for :pyclass:`~api.services.workflow.pipecat_engine.PipecatEngine`.
 
 Each helper takes a :class:`PipecatEngine` instance and returns an async
