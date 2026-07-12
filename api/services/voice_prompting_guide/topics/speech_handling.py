@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: handle noisy audio, bad transcripts, and silence gracefully."""
 
 from __future__ import annotations
