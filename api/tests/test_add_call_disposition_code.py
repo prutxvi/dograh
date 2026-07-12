@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Test that add_call_disposition_code correctly persists changes.
 
