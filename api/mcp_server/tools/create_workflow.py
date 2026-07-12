@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP tool that accepts LLM-authored SDK TypeScript and creates a new workflow.
 
 Companion to `save_workflow`: where `save_workflow` updates an existing
