@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """ai_model_configuration module."""
 
 from __future__ import annotations
