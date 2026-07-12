@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Drift guards between the static MCP guide and the live tool surface.
 
 `api/mcp_server/instructions.py` is free text baked into the client
