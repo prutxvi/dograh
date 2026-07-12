@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Execute integrations (QA analysis, webhooks) after workflow run completion."""
 
