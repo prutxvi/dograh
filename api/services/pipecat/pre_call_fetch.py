@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Pre-call HTTP data fetch for StartCall node.
 
