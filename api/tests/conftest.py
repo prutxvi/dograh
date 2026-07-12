@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """
 Shared mock fixtures and workflow helpers for unit tests.
