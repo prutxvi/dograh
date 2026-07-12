@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """WebSocket-based WebRTC signaling endpoint with ICE trickling support.
 
