@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Registry to store WebSocket senders by workflow_run_id.
 
