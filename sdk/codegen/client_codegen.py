@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Generate SDK client mixins (Python + TypeScript) from a filtered OpenAPI dump.
 
 Input: a spec produced by calling FastAPI's `get_openapi(routes=...)` with
