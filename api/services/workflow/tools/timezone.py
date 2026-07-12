@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Time tools for LLM function calling - timezone and time conversion utilities."""
 
