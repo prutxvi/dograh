@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Shared scaffolding for ``_run_pipeline`` integration tests.
 
