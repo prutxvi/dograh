@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Drop workflow_run_mode Postgres enum, store mode as VARCHAR.
 
