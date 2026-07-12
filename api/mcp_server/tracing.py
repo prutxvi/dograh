@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """OTel tracing for MCP tool invocations.
 
 The project-wide tracing setup in
