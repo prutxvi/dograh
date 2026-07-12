@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """GENERATED — do not edit. Source: filtered OpenAPI from `api.app`.
 
 Regenerate with `./scripts/generate_sdk.sh`.
