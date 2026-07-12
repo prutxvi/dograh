@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Dograh SDK — typed builder for voice-AI workflows.
 
