@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: consolidate end-call scenarios with clear trigger conditions."""
 
 from __future__ import annotations
