@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Position reconciliation for LLM-edited workflows.
 
 `save_workflow` re-parses LLM-authored TypeScript into workflow JSON,
