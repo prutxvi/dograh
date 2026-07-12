@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Pure helpers for MCP-category tools: definition validation and
 LLM-function-name namespacing. No I/O, no MCP protocol here."""
 
