@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: avoid instruction collision — conflicting guidance in one prompt."""
 
 from __future__ import annotations
