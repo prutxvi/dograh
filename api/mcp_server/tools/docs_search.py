@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP docs discovery tools over the Mintlify docs tree.
 
 The docs surface is intentionally split into three steps:
