@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Tests for verifying context is updated before next LLM completion during node transitions.
 
