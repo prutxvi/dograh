@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """make recordings org-scoped instead of workflow-scoped
 
