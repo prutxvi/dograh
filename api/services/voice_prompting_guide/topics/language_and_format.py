@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: phone-call output format and language handling."""
 
 from __future__ import annotations
