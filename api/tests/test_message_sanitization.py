@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """test_message_sanitization module."""
 
 from __future__ import annotations
