@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Opt-in marker for exposing a FastAPI route through the Dograh SDK.
 
 The generated SDK client (`sdk/python/src/dograh_sdk/_generated_client.py`
