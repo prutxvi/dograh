@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Python-side bridge to the Node TS validator.
 
 Spawns `node api/mcp_server/ts_validator/src/index.ts` as a short-lived
