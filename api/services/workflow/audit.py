@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Rule-based audit of a workflow definition's nodes + edges.
 
