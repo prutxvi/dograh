@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """
 Gender prediction service with local model and GenderAPI fallback.
