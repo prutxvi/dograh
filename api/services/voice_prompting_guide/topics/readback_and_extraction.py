@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: read back critical info char-by-char; don't interrogate on casual details."""
 
 from __future__ import annotations
