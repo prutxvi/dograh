@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Build HTTP authentication headers from ExternalCredentialModel.
 
