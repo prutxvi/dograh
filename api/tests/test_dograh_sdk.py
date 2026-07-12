@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Tests for the Python runtime SDK (`dograh_sdk`).
 
 Uses a stub client backed by the in-process spec registry rather than
