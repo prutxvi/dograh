@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Request/response schemas for the phone-number CRUD endpoints."""
 
