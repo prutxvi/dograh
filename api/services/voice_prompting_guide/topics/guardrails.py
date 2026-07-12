@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Topic: guardrails — out-of-scope, abuse, and honesty non-negotiables."""
 
 from __future__ import annotations
