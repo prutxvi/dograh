@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Tests for verifying variable extraction is triggered for the correct node during transitions.
 
