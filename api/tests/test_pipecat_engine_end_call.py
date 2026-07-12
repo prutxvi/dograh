@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Tests for verifying end_call_with_reason behavior in different scenarios.
 
