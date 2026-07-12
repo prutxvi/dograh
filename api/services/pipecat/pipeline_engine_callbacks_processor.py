@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """pipeline_engine_callbacks_processor module."""
 
