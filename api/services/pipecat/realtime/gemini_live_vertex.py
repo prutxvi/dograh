@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Dograh subclass of pipecat's Gemini Live Vertex AI LLM service.
 
