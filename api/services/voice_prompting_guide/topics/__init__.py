@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Topic modules. Each module defines a single `TOPIC` constant.
 
