@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Knowledge Base retrieval tool for workflow execution.
 
