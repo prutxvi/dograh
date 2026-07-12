@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Base class for generated per-node-type dataclasses.
 
 The typed SDK (`dograh_sdk.typed`) contains one generated dataclass per
