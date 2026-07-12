@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """HTTP client for the Dograh REST API.
 
 Most endpoint methods come from `_GeneratedClient` (auto-generated from
