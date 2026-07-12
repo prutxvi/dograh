@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """MCP tool that returns a workflow as SDK TypeScript code.
 
 Companion to `save_workflow`: the LLM calls `get_workflow_code` to see
