@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Unit tests for the MCP docs discovery tools."""
 
 from __future__ import annotations
