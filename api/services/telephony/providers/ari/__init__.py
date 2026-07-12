@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """ARI (Asterisk REST Interface) telephony provider package."""
 
