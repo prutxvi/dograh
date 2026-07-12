@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Pydantic schemas for reusable Dograh tools.
 
 These models are the single contract for tool creation/update across the
