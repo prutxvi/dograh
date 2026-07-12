@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Real-time feedback observer for sending pipeline events to the frontend.
 
