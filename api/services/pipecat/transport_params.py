@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Shared helpers for tuning pipecat ``TransportParams`` per run mode.
 
