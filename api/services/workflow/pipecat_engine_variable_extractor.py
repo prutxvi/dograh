@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """pipecat_engine_variable_extractor module."""
 
 from __future__ import annotations
