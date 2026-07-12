@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Public download endpoints for workflow recordings and transcripts.
 
