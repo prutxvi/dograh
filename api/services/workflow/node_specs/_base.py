@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Spec schema for node definitions.
 
 `NodeSpec` is the serialized contract exposed to the frontend, MCP tools, and
