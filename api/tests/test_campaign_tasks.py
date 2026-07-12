@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """
 Tests for api.tasks.campaign_tasks failure handling.
