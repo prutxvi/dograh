@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from __future__ import annotations
 """Cloudonix frame serializer (re-exported from pipecat)."""
 
