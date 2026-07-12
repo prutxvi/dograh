@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Workflow builder.
 
 Users compose workflows by calling `Workflow.add(type="agentNode", ...)`
