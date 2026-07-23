@@ -1,4 +1,2 @@
 *.py text diff=python
 *.md text
-*.ts text
-*.tsx text
